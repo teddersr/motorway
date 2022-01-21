@@ -34,3 +34,6 @@ body {
 .gridImage:hover {
     transform: scale(0.75); 
 }
+.spinner-container{
+    height: 100vh;
+}
